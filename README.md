@@ -1,4 +1,5 @@
 # AI-preventing-traffic-accidents
+### link to Latest update:https://www.chrisli.xyz/tech/%e8%ae%ba%e6%96%87-ai-applications-preventing-traffic-accidents.html
 Abstract:
 With the development of self-driving technology in automotive industry, transportation safety has a very close connection with AI. There are two main approaches for the AI applications for traffic accidents. One is the analysis and solving of the potential risk of traffic accidents. Another is maximizing the safety of people’s lives if the accident cannot be avoided. Both of the works act as an important part to prevent traffic accidents. They require applications’ analysis and making decisions within a short time. This paper is introduced the methods for AI dealing with traffic problems, which is the most important part of applications’ processing. Optimizing the codes and decreasing the reaction time of the applications is also necessary to maximize saving people’s lives.
 
